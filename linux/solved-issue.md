@@ -33,5 +33,3 @@ sudo kill 1035
 # start again
 sudo /opt/lampp/lampp start
 ```
-
-
