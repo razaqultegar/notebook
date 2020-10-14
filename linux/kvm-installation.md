@@ -7,13 +7,9 @@
 ## Table Of Contents
 
 1. [Intro](#intro)
-
 2. [Prerequisites](#prerequisites)
-
 3. [Installation](#installation)
-
 4. [Network Setup](#network-setup)
-
 5. [Reference](#reference)
 
 ## Intro
