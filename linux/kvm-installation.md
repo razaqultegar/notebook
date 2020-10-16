@@ -16,7 +16,7 @@
 
 The problem came when I installed the [Android Studio IDE](https://developer.android.com) for mobile device development, where in the installation process a message appeared that your system didn't have an emulator and I was directed to install KVM first.
 
-Therefore I will make notes again to help me someday in the process of installing and configuring KVM on Ubuntu Desktop 18.04.1
+Therefore I will make notes again to help me someday in the process of installing and configuring KVM on Ubuntu Desktop 20.04.1
 
 ## Prerequisites
 
