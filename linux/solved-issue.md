@@ -9,8 +9,8 @@ Have fun and good can help as well 😉
 ## Table Of Contents
 
 1. [zsh: laravel command not found](#zsh-laravel-command-not-found)
-
 2. [XAMPP:  Another web server is already running.](#xampp-another-web-server-is-already-running)
+3. [Server Certificate Verification Failed](#server-certificate-verification-failed)
 
 ## zsh: laravel command not found
 
@@ -32,4 +32,12 @@ sudo netstat -nap | grep :80
 sudo kill 1035
 # start again
 sudo /opt/lampp/lampp start
+```
+
+## Server Certificate Verification Failed
+
+Error message `server certificate verification failed. CAfile: none CRLfile: none`. Make sure first that you have certificates installed on your Debian in `/etc/ssl/certs`. If not, reinstall them:
+
+```bash
+sudo apt-get install --reinstall ca-certificates
 ```
