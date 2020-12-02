@@ -11,4 +11,4 @@ I have a lot of physical notebooks, it makes my desk full with them. Then I thou
 ## 📎 See Also
 
 - [Meta Knowledge](https://github.com/RichardLitt/meta-knowledge) - Lists other notebooks.
-- [Mark Text](https://github.com/marktext/marktext) - A simple and elegant open-source markdown editor that focused on speed and usability.
+- [Personal Site](https://razaqultegar.com) - My personal site, you can be read this notebook in another style.

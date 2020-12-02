@@ -1,6 +1,6 @@
 # CodeIgniter
 
-![Image by Teknologi.id](https://berita.teknologi.id/uploads/2018/04/CodeIgniter-620x350-c.png)
+<div style="text-align:center"><img src="https://berita.teknologi.id/uploads/2018/04/CodeIgniter-620x350-c.png" alt="Image by Teknologi.id"/></div>
 
 [CodeIgniter](https://codeigniter.com) is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications..
 
