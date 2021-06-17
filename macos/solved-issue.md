@@ -9,9 +9,24 @@ Have fun and good can help as well 😉
 ## Table Of Contents
 
 1. [zsh: archive folder command](#zsh-archive-folder-comman)
+2. [Delete files starting with ._](#delete-files-starting-with-._)
 
 ## zsh: archive folder command
 
 ```bash
 zip -vr archive-name.zip folder-name/ -x ".DS_Store"
+```
+
+## Delete files starting with ._
+
+From the parent, recursively:
+
+```bash
+find . -type f -name '._*'
+```
+
+After checking append -delete to remove the files:
+
+```bash
+find . -type f -name '._*' -delete
 ```
